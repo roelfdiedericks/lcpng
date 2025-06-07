@@ -28,6 +28,7 @@
 #include <netlink/route/addr.h>
 
 #include <vlib/vlib.h>
+#include <vlib/file.h>
 #include <vlib/unix/unix.h>
 #include <vppinfra/error.h>
 
